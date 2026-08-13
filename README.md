@@ -82,3 +82,4 @@ I use the [lazy.nvim](https://lazy.folke.io/) package manager. It works great, i
   - [bufferline.nvim](https://github.com/akinsho/bufferline.nvim)
   - [lazydev.nvim](https://github.com/folke/lazydev.nvim)
   - [nvim-ts-autotag](https://github.com/windwp/nvim-ts-autotag)
+ 
