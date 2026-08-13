@@ -1,9 +1,17 @@
-## My **Neovim** configuration
+<div align="center">
 
-#### Feel free to build off of mine!
+# Simple-Nvim
 
+**My Neovim Configuration. Feel free to build off of mine!**
+
+[![Neovim](https://img.shields.io/badge/neovim-57A143?style=flat-square&logo=neovim&logoColor=white)](#)
+[![Lua](https://img.shields.io/badge/lua-2C2D72?style=flat-square&logo=lua&logoColor=white)](#)
+[![License](https://img.shields.io/badge/License-MIT-yellow.svg?style=flat-square)](LICENSE)
+
+</div>
 <br>
 
+>[!IMPORTANT]
 > Before starting, make sure you have:
 > - **neovim**(ofc)
 > - a [nerd font](https://www.nerdfonts.com/)
