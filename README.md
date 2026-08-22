@@ -18,6 +18,7 @@
 > - fzf
 
 <br> 
+<img width="1911" height="1043" alt="image" src="https://github.com/user-attachments/assets/bde3e9a3-83f3-4ac2-a5a6-1b0246259c04" />
 
 ### Quickinstall
 First, make sure to unninstal any config files you may have
